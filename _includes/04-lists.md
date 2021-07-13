@@ -1,4 +1,4 @@
-## Road Fronted (Basic) :heart: :
+## Road Fronted (Basic):
 1. HTML
 2. CSS:
     - Responsive Design
